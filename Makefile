@@ -1,0 +1,1 @@
+CFLAGS=-lssl -lcrypto -g
